@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-eslint",
+  "version": "1.0.0",
+  "description": "NodeJs ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anita Silvi Ferdina",
+  "license": "ISC"
+}
